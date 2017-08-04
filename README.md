@@ -1,4 +1,4 @@
-# albionTiquets
+# Albion Trade Tiquets
 
 A ticket-receiver webpage for users and guilds. Want a bounty guild to hunt your enemy? Want guardians to protect you while gathering? Are you starting a guild oriented in guarding 
 
