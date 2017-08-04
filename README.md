@@ -17,3 +17,7 @@ After the task being complete, the user will pass a survey provided by the syste
 ## Contracts
 
 When a client accepts a guild, a contract begins. The guild, ingame, needs to assign one responsible to the contract. The two players must sign an ingame contract, using a sentence like "I, [player name], client of ticket number [X] accept to use the services of guild [name], with the responsible [name]". "I, [player name], responsible of guild [name], accepts de client [name] for realizing the ticket number [X]". An screenshot of this must be send into a webpage form.
+
+## Report sistem
+
+To report a guild or user, is because the work is not done or because the user does not show up. If I am client and I pay a guild for doing this or that, the guild must do it in a week time or so(depends on the ticket and contract). If in time done, the guild has not provided screenshots/video of the work done, and the client reports it, severe actions will be done. 
