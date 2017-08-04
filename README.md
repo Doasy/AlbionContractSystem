@@ -12,7 +12,7 @@ When a user posts a ticket it will be anonymous until the contract begins. Peopl
 
 ## Honour
 
-After the task being complete, the user will pass a survey provided by the system, that will puntuate the guilds job.
+After the task being complete, the user will pass a survey provided by the system, that will puntuate the guilds job. The client has honour too.
 
 ## Contracts
 
