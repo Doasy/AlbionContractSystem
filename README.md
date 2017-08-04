@@ -16,4 +16,4 @@ After the task being complete, the user will pass a survey provided by the syste
 
 ## Contracts
 
-When a client accepts a guild, a contract begins. The guild, ingame, needs to assign one responsible to the contract. The two players must sign an ingame contract, using a sentence like "I, [player name], client of ticket number [X] accept to use the services of guild [name], with the responsible [name]". "I, [player name], responsible of guild [name], accepts de client [name] for realizing the ticket number [X]". An screenshot of this must be send.
+When a client accepts a guild, a contract begins. The guild, ingame, needs to assign one responsible to the contract. The two players must sign an ingame contract, using a sentence like "I, [player name], client of ticket number [X] accept to use the services of guild [name], with the responsible [name]". "I, [player name], responsible of guild [name], accepts de client [name] for realizing the ticket number [X]". An screenshot of this must be send into a webpage form.
