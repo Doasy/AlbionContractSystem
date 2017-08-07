@@ -18,6 +18,12 @@ After the task being complete, the user will pass a survey provided by the syste
 
 When a client accepts a guild, a contract begins. The guild, ingame, needs to assign one responsible to the contract. The two players must sign an ingame contract, using a sentence like "I, [player name], client of ticket number [X] accept to use the services of guild [name], with the responsible [name]". "I, [player name], responsible of guild [name], accepts de client [name] for realizing the ticket number [X]". An screenshot of this must be send into a webpage form.
 
-## Report sistem
+## Report system
 
 To report a guild or user, is because the work is not done or because the user does not show up. If I am client and I pay a guild for doing this or that, the guild must do it in a week time or so(depends on the ticket and contract). If in time done, the guild has not provided screenshots/video of the work done, and the client reports it, severe actions will be done. 
+
+## Pay system
+
+We want to make the users interaction secure, but, how can we ensure the paying is fair for both sides of the contract? We have some ideas about it. One is classic, 50% at beginning and 50% at final. The other one has some ways of doing it, paying while the task is being done. The client should put a checklist, giving a little reward for every part of the checklist. The payment is done everytime a part of the  checklist is done. What we really want to do is restrict clients. Banning a guild is easy, but banning individual cheaters is not that easy. So we do not want individual cheaters, nor guilds, but with guilds the money will not be lost. 
+
+Maybe a mix of this would be the best option.
