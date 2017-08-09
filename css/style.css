@@ -5,6 +5,5 @@ body {
 h1 {
     position: absolute;
     left: 50%;
-    margin-right: -50%;
     color: white;
 }
