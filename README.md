@@ -27,3 +27,7 @@ To report a guild or user, is because the work is not done or because the user d
 We want to make the users interaction secure, but, how can we ensure the paying is fair for both sides of the contract? We have some ideas about it. One is classic, 50% at beginning and 50% at final. The other one has some ways of doing it, paying while the task is being done. The client should put a checklist, giving a little reward for every part of the checklist. The payment is done everytime a part of the  checklist is done. What we really want to do is restrict clients. Banning a guild is easy, but banning individual cheaters is not that easy. So we do not want individual cheaters, nor guilds, but with guilds the money will not be lost. 
 
 Maybe a mix of this would be the best option.
+
+## Type of payments
+
+The client can pay to the guild with any sort of object or money, for example, if I need protection because I need to extract T6.2 logs, I am going to give the 50% of the amount extracted to my guardians. I am going to deliver 50% every 10 minutes.
